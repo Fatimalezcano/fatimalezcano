@@ -9,7 +9,7 @@ Si bien estoy formada como Full Stack Web Developer, me apasiona el Front End y 
 ➜ Me encanta trabajar en equipo y suelo tomar la iniciativa en las decisiones. <br>
 ➜ Con una gran capacidad de adaptacion ante nuevos equipos y/o ambientes laborales. <br>
 
-:computer: Tecnologias con las que trabajo
+<h2>:computer: Tecnologias con las que trabajo</h2>
 
 :floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
 :floppy_disk: React, Redux. <br>
@@ -17,7 +17,7 @@ Si bien estoy formada como Full Stack Web Developer, me apasiona el Front End y 
 :floppy_disk: Git, github, SCRUM. <br>
 :floppy_disk: Google Suit. <br>
 
-:incoming_envelope: Podes contactarme :incoming_envelope:
+<h2>:incoming_envelope: Podes contactarme</h2>
 
 :envelope: E-mail: fatimalezcanodev@gmail.com <br>
 :computer_mouse: Linkedin: https://www.linkedin.com/in/fatima-lezcano/
