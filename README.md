@@ -1,13 +1,13 @@
 # ¡Hola! Soy Fatima, Front End Software Development :woman_technologist:
 
-Hola! soy Fátima, y actualmente estoy finalizando mis estudios de desarrollo Web Full Stack en el bootcamp SoyHenry.
+Hola! soy Fátima, y actualmente estoy finalizando mis estudios de desarrollo Web Full Stack en el bootcamp SoyHenry. <br>
 Si bien estoy formada como Full Stack Web Developer, me apasiona el Front End y deseo seguir ampliando mis conocimientos en el area.
 
 ⚫ Mi ultima experiencia laboral me ayudo a mejorar mis habilidades de comunicacion, negociacion y trabajo en equipo.
 
-➜ Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez mas.
-➜ Me encanta trabajar en equipo y suelo tomar la iniciativa en las decisiones.
-➜ Con una gran capacidad de adaptacion ante nuevos equipos y/o ambientes laborales.
+➜ Soy una persona dedicada y muy exigente, trato de entregar lo mejor de mi en cada proyecto y de mejorar cada vez mas. <br>
+➜ Me encanta trabajar en equipo y suelo tomar la iniciativa en las decisiones. <br>
+➜ Con una gran capacidad de adaptacion ante nuevos equipos y/o ambientes laborales. <br>
 
 :computer: Tecnologias con las que trabajo
 
