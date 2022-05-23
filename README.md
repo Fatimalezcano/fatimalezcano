@@ -11,13 +11,13 @@ Si bien estoy formada como Full Stack Web Developer, me apasiona el Front End y 
 
 :computer: Tecnologias con las que trabajo
 
-:floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap
-:floppy_disk: React, Redux.
-:floppy_disk: Figma, Adobe Photoshop & Lightroom.
-:floppy_disk: Git, github, SCRUM.
-:floppy_disk: Google Suit.
+:floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
+:floppy_disk: React, Redux. <br>
+:floppy_disk: Figma, Adobe Photoshop & Lightroom. <br>
+:floppy_disk: Git, github, SCRUM. <br>
+:floppy_disk: Google Suit. <br>
 
-Podes contactarme :incoming_envelope:
+:incoming_envelope: Podes contactarme :incoming_envelope:
 
-:envelope: E-mail: fatimalezcanodev@gmail.com
+:envelope: E-mail: fatimalezcanodev@gmail.com <br>
 :computer_mouse: Linkedin: https://www.linkedin.com/in/fatima-lezcano/
