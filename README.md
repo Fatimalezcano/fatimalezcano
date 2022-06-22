@@ -1,4 +1,4 @@
-# ¡Hola! Soy Fatima, Front End Software Development :woman_technologist:
+# ¡Hola! Soy Fatima, Front End Web / Mobile :woman_technologist:
 <br>
 
 Hola, soy Fátima 👋 <br>
