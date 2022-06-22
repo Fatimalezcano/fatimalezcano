@@ -12,7 +12,7 @@ Si bien estoy formada como Full Stack Web Developer, me apasiona el Front End y 
 <h2>:computer: Tecnologias con las que trabajo</h2>
 
 :floppy_disk: Javascript, HTML, CSS, SCSS, Bootstrap <br>
-:floppy_disk: React, Redux. <br>
+:floppy_disk: React,React Native, Redux. <br>
 :floppy_disk: Figma, Adobe Photoshop & Lightroom. <br>
 :floppy_disk: Git, github, SCRUM. <br>
 :floppy_disk: Google Suit. <br>
